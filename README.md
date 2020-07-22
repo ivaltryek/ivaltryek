@@ -1,4 +1,4 @@
-### Hi there, Here's what I'm working on 👋
+### Hi there, Here's interesting things about me. 👋
 
 - 🔭 I’m currently working on Web and App Development
 - 🌱 I’m currently learning React
