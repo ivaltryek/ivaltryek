@@ -1,7 +1,7 @@
 ### Hi there, Here's interesting things about me. 👋
 
 - 🔭 I’m currently working on Web and App Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 - 👯 I’m looking to collaborate on MEAN Stack Or MERN Stack
 <!-- 🤔 I’m looking for help with nothing right now -->
 - 💬 Ask me about Anything
