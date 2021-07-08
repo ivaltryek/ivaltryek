@@ -1,6 +1,6 @@
 ### Hi there, Here's interesting things about me. 👋
 
-- 🔭 I’m currently working on Web and App Development
+- 🔭 I’m currently working on Web and DevOps roles.
 - 🌱 I’m currently learning Vue
 - 👯 I’m looking to collaborate on MEAN Stack Or Vue.js
 <!-- 🤔 I’m looking for help with nothing right now -->
