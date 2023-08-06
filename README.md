@@ -1,15 +1,11 @@
 ### Hi there, Here's interesting things about me. 👋
 
-- 🔭 I’m currently working on Web and DevOps roles.
-<!-- - 🌱 I’m currently learning Vue -->
-<!-- - 👯 I’m looking to collaborate on MEAN Stack Or Vue.js -->
-<!-- 🤔 I’m looking for help with nothing right now -->
+- 🔭 I’m currently working on DevOps roles.
 - 💬 Ask me about Anything
 - 📫 How to reach me: Check the left hand side. There's an E-mail Taa daa!
-<!-- - ⚡ Fun fact: I can adapt any new framework within short amount of time. (~20 days) -->
+- Schedule a meet with me on Calendly [here](https://calendly.com/lowkey86)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meet86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowkey-who&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=meet86)
 
